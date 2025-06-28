@@ -1,3 +1,6 @@
+![Screenshot 2025-06-28 113438](https://github.com/user-attachments/assets/70464fb4-bc20-4a94-8e5f-74f3ce2e8d40)
+![Screenshot 2025-06-28 113412](https://github.com/user-attachments/assets/561cc214-02df-4d97-8d48-686d587bc5b5)
+![Screenshot 2025-06-28 113350](https://github.com/user-attachments/assets/456acc4d-35df-45e3-b381-259ea40f5d0f)
 # 🛡️ WAVS - Web Application Vulnerability Scanner | أداة فحص ثغرات تطبيقات الويب
 
 ## 🧠 Overview | نظرة عامة
