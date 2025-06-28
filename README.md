@@ -26,8 +26,7 @@ pip install -r requirments.txt
 python main.py
 
 Enter the IP or URL (without http/https) when prompted.
-عند التشغيل، ستطلب منك الأداة إدخال عنوان IP أو رابط الموقع بدون http/https.
-![Screenshot 2025-06-28 113350](https://github.com/user-attachments/assets/456acc4d-35df-45e3-b381-259ea40f5d0f)
+عند التشغيل، ستطلب منك الأداة إدخال عنوان IP أو رابط الموقع بدون http/https
 
 
 📁 Project Files | ملفات المشروع
@@ -41,8 +40,9 @@ crawler.py	Internal link crawler	crawler.py	الزاحف لاستخراج روا
 bruteforce.txt	Password wordlist	bruteforce.txt	قائمة كلمات مرور لتجربة الدخول
 requirments.txt	Required libraries	requirments.txt	مكتبات Python المطلوبة
 
-![Screenshot 2025-06-28 113438](https://github.com/user-attachments/assets/70464fb4-bc20-4a94-8e5f-74f3ce2e8d40)
-![Screenshot 2025-06-28 113412](https://github.com/user-attachments/assets/561cc214-02df-4d97-8d48-686d587bc5b5)
+![Screenshot 2025-06-28 113438](https://github.com/user-attachments/assets/de44a5dd-677d-4552-92dd-01a7fd9ea5ea)
+![Screenshot 2025-06-28 113412](https://github.com/user-attachments/assets/0fc20122-da2c-47a1-ae66-1f4a591ab4f6)
+![Screenshot 2025-06-28 113350](https://github.com/user-attachments/assets/b7b7f8f1-b8ed-4e8a-a4ad-33685af77c90)
 
 ✅ What It Does | ما الذي تفعله الأداة
 Checks if the host is alive
