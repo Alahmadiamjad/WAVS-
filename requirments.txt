@@ -1,0 +1,8 @@
+os
+urllib3
+colorama
+requests
+subprocess
+sys
+re
+bs4
